@@ -90,11 +90,11 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### v0.1
 
-Uses the forever feature to switch between two faces(Activity_1.js)
+Uses the forever feature to switch between two faces: [Program](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-entrylevelcs/blob/master/Activity_1.jss)
 
 ### v0.2
 
-Switches between two faces when A or B are pressed(Activity_2.js)
+Switches between two faces when A or B are pressed: [Program](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-entrylevelcs/blob/master/Activity_2.js)
 
 ### v0.3
 
@@ -114,7 +114,7 @@ Spawns up to three sprites that move around the display based on a random number
 
 ### v0.7
 
-Uses an LED plot to toggle between faces(Activity_7.js)
+Uses an LED plot to toggle between [faces](Activity_7.js)
 
 ### v0.8
 
