@@ -88,15 +88,54 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ## Tags
 
-_**Note:** Add your program descriptions below._
-
 ### v0.1
 
-**[your description here, linking to the JavaScript [file](example.js)**]
+Uses the forever feature to switch between two faces(Activity_1.js)
 
 ### v0.2
 
-**[etc.]**
+Switches between two faces when A or B are pressed(Activity_2.js)
+
+### v0.3
+
+Score keeper for two player game using A and B inputs(Activity_3.js)
+
+### v0.4
+
+Rock paper scissors using shake as an input and using a random number generator(Activity_4.js)
+
+### v0.5
+
+Creates a sprite that moves around the edges when A is pressed and plots and unplots LEDs on the display(Activity_5.js)
+
+### v0.6
+
+Spawns up to three sprites that move around the display based on a random number generator using A, B and AB as inputs(Mini_Project.js)
+
+### v0.7
+
+Uses an LED plot to toggle between faces(Activity_7.js)
+
+### v0.8
+
+Coin flip game that uses conditionals to determine the winner(Activity_8.js)
+
+### v0.9
+
+Binary converter that uses a binary number in the form of a string and converts it to a decimal(Activity_9.js)
+
+### v0.10
+
+Uses the radio feature to send Marco and Pollo between two microbits(Activity_10.js)
+
+### v0.11
+
+A word game inspired by Ellen DeGeneres(Activity_11.js)
+
+### v0.12
+
+User plays as a cat and tries to catch a mouse using A and B as controls(Final_Project.js)
+
 
 ## Designs
 
