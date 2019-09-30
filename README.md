@@ -150,17 +150,37 @@ The goal of this mini-project was to try and connect the ideas used in activitie
 
 I started by looking at the mini-project [ideas](https://makecode.microbit.org/courses/csintro/miniproject/project) and saw the moving monster idea which I found interesting. While doing this idea I ran into the problem of how the monster would move. The solution that I found was to use a random number generator with some if statements so that the movement of the monsters would be random. After I had initially finished it I realized that it didn't look like much was happening since at the time the monster would spawn move around then just stop after about 100 iterations. To combat this I made it so that if you pressed A, B or A and B at the same time a new monster would spawn and be able to move around. This allowed up to three monsters to be present at the same time. 
 
-#### JS Constructs & objects
+#### JS Constructs & Objects
 
 1. pause
 2. if
 3. else if
 4. math.random
 5. variables
-6. "game." functions
+6. "game." objects
 7. for loops
 8. button inputs
 
 ### Final project
 
-**[etc.]**
+#### Goal
+
+The goal of this final project was to try and connect the ideas of used in all the activities throughout the [CS intro course.](https://makecode.microbit.org/courses/csintro)
+
+#### Design process
+
+Thinking up ideas for this program was rather difficult since the section did not have listed project ideas like the mini-project. I decided that since I was using the idea of building off of previous ideas I would do something similar to the mini-project but put a spin on it so that it would be different. However; rather than just making another simulation type program I made a game that depended on the users input in order for it to function. This allowed me to use more JS constructs and objects to the program covering more of the topics. One big issue I had when putting together this program was with how the user was supposed to move the cat with the buttons. Since I wanted to use booleans I had it to where you would press a button to toggle true on a boolean and that would tell the program that you wanted to turn left or right. The issue arose when I realized that even though you pressed the left button the sprite would continue in a straight line and not actually turn. To solve the issue I enabled the snail mode so I could watch what happened during each part of the code and found out that the order of where I put the onButtonPress was wrong. I had initially placed it at the bottom so that it wouldn't change the boolean state until the end but by the time the program checked for the status, the boolean would already be reset to false. I ultimately just had to move the onButtonPress above the while loop.
+
+#### JS Constructs & Objects
+
+1. "game." objects
+2. LED brightness
+3. booleans
+4. button inputs
+5. if
+6. else if
+7. pause
+8. while loop
+9. variables
+10. math.random
+11. coordinates
