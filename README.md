@@ -139,23 +139,27 @@ User plays as a cat and tries to catch a mouse using A and B as controls: [Progr
 
 ## Designs
 
-_**Note:** Add your project designs below._
 
-### Midterm project
-
-_**Note:** Add your project designs below._
+### Mini-project
 
 #### Goal
 
-**[your short description]**
+The goal of this mini-project was to try and connect the ideas used in activities 1-5 into one program.
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+I started by looking at the mini-project [ideas](https://makecode.microbit.org/courses/csintro/miniproject/project) and saw the moving monster idea which I found interesting. While doing this idea I ran into the problem of how the monster would move. The solution that I found was to use a random number generator with some if statements so that the movement of the monsters would be random. After I had initially finished it I realized that it didn't look like much was happening since at the time the monster would spawn move around then just stop after about 100 iterations. To combat this I made it so that if you pressed A, B or A and B at the same time a new monster would spawn and be able to move around. This allowed up to three monsters to be present at the same time. 
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
+1. pause
+2. if
+3. else if
+4. math.random
+5. variables
+6. "game." functions
+7. for loops
+8. button inputs
 
 ### Final project
 
