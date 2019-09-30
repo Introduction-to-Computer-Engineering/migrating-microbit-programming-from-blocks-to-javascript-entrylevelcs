@@ -98,7 +98,7 @@ Switches between two faces when A or B are pressed: [Program](https://github.com
 
 ### v0.3
 
-Score keeper for two player game using A and B inputs(Activity_3.js)
+Score keeper for two player game using A and B inputs: [Program](Activity_3.js)
 
 ### v0.4
 
