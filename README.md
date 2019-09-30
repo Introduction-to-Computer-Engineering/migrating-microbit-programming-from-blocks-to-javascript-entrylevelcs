@@ -90,11 +90,11 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ### v0.1
 
-Uses the forever feature to switch between two faces: [Program](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-entrylevelcs/blob/master/Activity_1.jss)
+Uses the forever feature to switch between two faces: [Program](Activity_1.js)
 
 ### v0.2
 
-Switches between two faces when A or B are pressed: [Program](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-entrylevelcs/blob/master/Activity_2.js)
+Switches between two faces when A or B are pressed: [Program](Activity_2.js)
 
 ### v0.3
 
@@ -102,39 +102,39 @@ Score keeper for two player game using A and B inputs: [Program](Activity_3.js)
 
 ### v0.4
 
-Rock paper scissors using shake as an input and using a random number generator(Activity_4.js)
+Rock paper scissors using shake as an input and using a random number generator: [Program](Activity_4.js)
 
 ### v0.5
 
-Creates a sprite that moves around the edges when A is pressed and plots and unplots LEDs on the display(Activity_5.js)
+Creates a sprite that moves around the edges when A is pressed and plots and unplots LEDs on the display: [Program](Activity_5.js)
 
 ### v0.6
 
-Spawns up to three sprites that move around the display based on a random number generator using A, B and AB as inputs(Mini_Project.js)
+Spawns up to three sprites that move around the display based on a random number generator using A, B and AB as inputs: [Program](Mini_Project.js)
 
 ### v0.7
 
-Uses an LED plot to toggle between [faces](Activity_7.js)
+Uses an LED plot to toggle between faces: [Program](Activity_7.js)
 
 ### v0.8
 
-Coin flip game that uses conditionals to determine the winner(Activity_8.js)
+Coin flip game that uses conditionals to determine the winner: [Program](Activity_8.js)
 
 ### v0.9
 
-Binary converter that uses a binary number in the form of a string and converts it to a decimal(Activity_9.js)
+Binary converter that uses a binary number in the form of a string and converts it to a decimal: [Program](Activity_9.js)
 
 ### v0.10
 
-Uses the radio feature to send Marco and Pollo between two microbits(Activity_10.js)
+Uses the radio feature to send Marco and Pollo between two microbits: [Program](Activity_10.js)
 
 ### v0.11
 
-A word game inspired by Ellen DeGeneres(Activity_11.js)
+A word game inspired by Ellen DeGeneres: [Program](Activity_11.js)
 
 ### v0.12
 
-User plays as a cat and tries to catch a mouse using A and B as controls(Final_Project.js)
+User plays as a cat and tries to catch a mouse using A and B as controls: [Program](Final_Project.js)
 
 
 ## Designs
